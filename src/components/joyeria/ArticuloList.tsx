@@ -130,7 +130,6 @@ export default function ArticuloList() {
                 </div>
               </div>
             </div>
-            <h2>todo bien?</h2>
 
             {isLoading ? (
               <div className="flex justify-center py-8">
